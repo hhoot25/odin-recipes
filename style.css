@@ -1,0 +1,19 @@
+.title{
+    
+    font-family:'Lucida Sans',sans-serif;
+    font-weight:800;
+    font-size:50px;
+}
+*{
+    background-color:black;
+    color:white;
+    font-size:30px;
+    font-family:monospace, sans-serif;
+}
+.link{
+    color:rgb(0, 204, 255);
+}
+div li{
+    color:rgb(230,229,218);
+    
+}
